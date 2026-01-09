@@ -232,13 +232,6 @@ Input
 
 ---
 
-## 🧠 Interview Explanation
-
-> *“I built a Retrieval-Augmented Generation system using a custom PocketFlow engine.  
-> I manually implemented PDF parsing, chunking, embedding generation, FAISS indexing, retrieval, prompt construction, and Gemini-based generation — without using LangChain abstractions.”*
-
----
-
 ## 🔮 Possible Extensions
 
 - Async PocketFlow RAG
